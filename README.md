@@ -1,3 +1,0 @@
-# myjs
-<br>
-javascript
